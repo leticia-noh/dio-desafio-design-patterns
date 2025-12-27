@@ -1,6 +1,6 @@
 # Desafio DIO: Design Patterns com Java e Spring Boot
 Este repositório contém a resolução de um desafio e um lab do bootcamp **CI&T - Backend com Java & AWS** da DIO.  
-Foi desenvolvido um código Java em que se aplicou de maneira simples alguns padrões de projeto amplamente conhecidos e utilizados no desenvolvimento de software: Singleton, Stretegy e Facade.  
+Foi desenvolvido um código Java em que se aplicou de maneira simples alguns padrões de projeto amplamente conhecidos e utilizados no desenvolvimento de software: Singleton, Strategy e Facade.  
 Em seguida, aplicou-se esses padrões em um projeto Spring Boot, envolvendo operações CRUD de usuários e seus endereços.   
 
 ## Tecnologias utilizadas 💻
