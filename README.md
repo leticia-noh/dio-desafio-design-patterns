@@ -15,12 +15,12 @@ Em seguida, aplicou-se esses padrões em um projeto Spring Boot, envolvendo oper
 
 ## Passo a passo para executar o projeto Java ▶️
 1. Clone o repositório: `git clone https://github.com/leticia-noh/dio-desafio-design-patterns.git`
-2. Entre na pasta lab-design-patterns-java/src/dio/gof: `cd lab-design-patterns-java/src/dio/gof`
+2. Entre no diretório dio-desafio-design-patterns/lab-design-patterns-java/src/dio/gof: `cd dio-desafio-design-patterns/lab-design-patterns-java/src/dio/gof`
 3. Para compilar, execute o comando `javac Test.java`
 4. Para executar: `java Test`
 
 ## Passo a passo para executar o projeto Spring Boot ▶️
 1. Clone o repositório: `git clone https://github.com/leticia-noh/dio-desafio-design-patterns.git`
-2. Entre na pasta design-patterns-spring-boot: `cd design-patterns-spring-boot`
+2. Entre no diretório dio-desafio-design-patterns/design-patterns-spring-boot: `cd dio-desafio-design-patterns/design-patterns-spring-boot`
 3. Para rodar a aplicação, execute o comando: `mvn spring-boot:run`
 4. Para visualizar os endpoints (e a documentação) e testá-los, acesse a URL: `http://localhost:8080/swagger-ui.html` 
